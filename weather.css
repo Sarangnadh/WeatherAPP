@@ -1,0 +1,27 @@
+body {
+    background-image: url(./img/clear-air-fly-fantastic-travel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+
+}
+
+.card {
+    background-color: rgba(214, 213, 213, 0.801) !important;
+    align-items: center;
+    border: 3px solid white;
+   
+   
+  
+}
+
+
+.sb {
+    
+    background-color: rgba(234, 224, 224, 0.801) !important;
+    border: none;
+    outline: none;
+    padding: 0.5em;
+    border-radius: 10px;
+}
